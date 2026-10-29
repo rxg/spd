@@ -15,7 +15,7 @@
 ;; affect what values are printed when student code is run.
 ;;
 ;; The file structure parser pulls apart the syntax later, knowing the
-;; tags are are well-formed.
+;; tags are well-formed.
 
 (provide @TAGS
          NON-TYPE-TEMPLATE-ORIGINS
